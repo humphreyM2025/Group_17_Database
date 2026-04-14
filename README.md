@@ -1,7 +1,7 @@
 # Group_17_Database
 
-This repository holds the CoffeeServiceDB database presented on Monday , to the department panal during the database
-exam presentation.
+This repository holds the CoffeeServiceDB database,
+which was presented on Monday 13th April,2026 to the departmental panel during the Database exam presentation.
 
 These are the Group members of group 17;
 
